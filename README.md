@@ -1,1 +1,1 @@
-# Property retnal Booking
+# Property rental Booking
